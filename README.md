@@ -1,1 +1,2 @@
-# AS_Alpro
+# AS_Alpro  
+Programming Algorithm Class Task
